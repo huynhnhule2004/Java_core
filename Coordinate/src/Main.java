@@ -13,10 +13,10 @@ public class Main {
         Point symOx = p1.symmetricAcrossOx();
         Point symOy = p1.symmetricAcrossOy();
 
-        System.out.println("Symmetric across Ox:");
+        System.out.println("Điểm đối xứng qua Ox:");
         symOx.display();
 
-        System.out.println("Symmetric across Oy:");
+        System.out.println("Điểm đối xứng qua Oy:");
         symOy.display();
 
 
